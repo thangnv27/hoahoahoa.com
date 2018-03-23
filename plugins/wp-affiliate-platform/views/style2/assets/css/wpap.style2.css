@@ -1,0 +1,58 @@
+.wpap-col-centered{
+    margin: 0 auto;
+    float: none;
+}
+.wpap-buffer-5{
+    margin: 5px;
+}
+.wpap-buffer-10{
+    margin: 10px;
+}
+.wpap-vertical-buffer-10{
+    margin: 10px 0;
+}
+.wpap-side-buffer-10{
+    margin: 0 10px;
+}
+.wpap-max-width-300{
+    max-width: 300px;
+}
+
+.wpap-date-calendar-icon{
+    margin-left: 5px;
+}
+
+.col1{max-width: 120px;}
+.col2{max-width: 130px;}
+.col2 img{max-width: 130px;}
+.creatives_col_1{width:30%;}
+.creatives_col_2{width:70%;}
+.creatives_code_area{width:95%;}
+
+#wpap_style2_view_body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+#wpap_style2_view_body ul{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+#wpap_style2_view_body li{
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none !important;
+    background: none !important;
+}
+#wpap_style2_view_body .navbar{
+    overflow: visible !important;
+    margin: 0 !important;
+    padding: 0 !important;    
+}
+
+/*** Force the date picker to be short and sweet ***/
+#wpap_style2_view_body .date-pick{
+    width: auto !important;
+}

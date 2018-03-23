@@ -1,0 +1,17 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">portfolio</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">portfolio_category</taxonomy>
+  </taxonomies>
+  <admin-texts>
+    <key name="option_tree">
+      <key name="logo_upload"/>
+      <key name="logo_upload_retina"/>
+      <key name="favicon_uploaded"/>
+      <key name="copyrights"/>
+      <key name="woo_static_top_content"/>
+    </key>
+  </admin-texts>
+</wpml-config>
